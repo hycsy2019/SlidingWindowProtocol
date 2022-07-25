@@ -1,0 +1,19 @@
+000.000 =============================================================
+000.000                     Station B                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-05
+000.000 Log file "gobackn-B.log", TCP port 59144, debug mask 0x00
+000.000 Station B is connecting station A (TCP port 59144) ... Done.
+000.051 New epoch: Fri Apr  9 14:28:47 2021
+000.052 =================================================================
+000.055 
+000.055 Designed by Cui Siying, build: Apr 24 2020  10:08:01
+002.648 .... 8 packets received, 7441 bps, 93.01%, Err 0 (0.0e+00)
+004.830 .... 16 packets received, 7474 bps, 93.43%, Err 0 (0.0e+00)
+009.822 .... 24 packets received, 5242 bps, 65.53%, Err 0 (0.0e+00)
+012.007 .... 32 packets received, 5669 bps, 70.86%, Err 0 (0.0e+00)
+015.654 .... 40 packets received, 5387 bps, 67.33%, Err 0 (0.0e+00)
+017.807 .... 48 packets received, 5662 bps, 70.78%, Err 1 (7.1e-06)
+020.569 .... 49 packets received, 4987 bps, 62.34%, Err 2 (1.2e-05)
+022.760 .... 57 packets received, 5232 bps, 65.39%, Err 2 (1.1e-05)
